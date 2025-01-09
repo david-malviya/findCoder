@@ -21,7 +21,7 @@ import analytics from "../assets/analytics.jpg";
 
 function LandingPage() {
   const navigate = useNavigate();
-  const youtubeID = "rt5Z07ZqPWo";
+  const youtubeID = "t_ELTDk27I8";
 
   const developers = [
     {
