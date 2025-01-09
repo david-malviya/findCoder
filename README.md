@@ -28,7 +28,7 @@ This project enables efficient analysis of social media engagement data using a 
 [Watch the Demo on YouTube](https://youtu.be/t_ELTDk27I8)
 
 ## 🌐 Deployed Site
-[Access the Live Application Here](https://findcoder.vercel.app/)
+[Access the Live Application Here](https://socialscope.vercel.app/)
 
 ## 💾 Tech Stack
 - **Langflow:** For the process flow
